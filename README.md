@@ -35,15 +35,6 @@ No user data, emails, or personal information was collected
 
 Data is used only for educational / analytical practice
 
-## Data Fields Extracted
-
-Field	Description
-Server Name	Public listing title
-Rank	Position on TopG page
-Expansion	Detected expansion
-Patch Version	Patch label (when available)
-URL	Server listing link
-
 ## Data pipeline:
 
 Python dictionary → Pandas dataframe → CSV export → Power BI dashboard
